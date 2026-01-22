@@ -1,4 +1,4 @@
-# KickSitStand-Rehab
+# Kicking Balls - Rehab
 
 KickSitStand-Rehab is a computer-vision–based rehabilitation game designed to help patients practice controlled lower-limb movements in **sitting** or **standing** posture using a webcam.
 
